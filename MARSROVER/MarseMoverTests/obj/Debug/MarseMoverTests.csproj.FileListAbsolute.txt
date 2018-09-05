@@ -1,0 +1,15 @@
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\MarseMoverTests.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\MarseMoverTests.pdb
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\obj\Debug\MarseMoverTests.csprojAssemblyReference.cache
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\obj\Debug\MarseMoverTests.csproj.CoreCompileInputs.cache
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\obj\Debug\MarseMoverTests.csproj.CopyComplete
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\obj\Debug\MarseMoverTests.dll
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\obj\Debug\MarseMoverTests.pdb
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMoverTests\bin\Debug\MarseMover.exe

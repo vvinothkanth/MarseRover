@@ -1,0 +1,6 @@
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\bin\Debug\MarseMover.pdb
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\obj\Debug\MarseMover.csproj.CoreCompileInputs.cache
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\obj\Debug\MarseMover.pdb
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\bin\Debug\MarseMover.exe
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\obj\Debug\MarseMover.exe
+C:\Users\vinothkanth\source\repos\MARSROVER\MarseMover\obj\Debug\MarseMover.csprojAssemblyReference.cache

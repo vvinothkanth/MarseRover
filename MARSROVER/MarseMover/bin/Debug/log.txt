@@ -1,0 +1,115 @@
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :boundary in upper X value
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:17:16 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 2:19:14 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :boundary in upper X value
+-------------------------------
+
+Log Entry : 2:20:23 PM Tuesday, September 4, 2018
+  :
+  :101. ) => :boundary in upper X value
+-------------------------------
+
+Log Entry : 6:50:55 PM Tuesday, September 4, 2018
+  :
+  :102. ) => :command error
+-------------------------------
+
+Log Entry : 9:41:40 AM Wednesday, September 5, 2018
+  :
+  :103. ) => :command error
+-------------------------------
+
+Log Entry : 9:41:40 AM Wednesday, September 5, 2018
+  :
+  :103. ) => :command error
+-------------------------------
+
+Log Entry : 9:41:40 AM Wednesday, September 5, 2018
+  :
+  :103. ) => :command error
+-------------------------------
+
+Log Entry : 9:41:40 AM Wednesday, September 5, 2018
+  :
+  :103. ) => :boundary in upper Y value
+-------------------------------
+
+Log Entry : 10:46:00 AM Wednesday, September 5, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 10:46:00 AM Wednesday, September 5, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 10:46:00 AM Wednesday, September 5, 2018
+  :
+  :101. ) => :command error
+-------------------------------
+
+Log Entry : 11:12:43 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
+
+Log Entry : 11:12:43 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
+
+Log Entry : 11:17:26 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
+
+Log Entry : 11:17:26 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
+
+Log Entry : 11:17:26 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
+
+Log Entry : 11:17:26 AM Wednesday, September 5, 2018
+  :
+  :1. ) => :command error
+-------------------------------
