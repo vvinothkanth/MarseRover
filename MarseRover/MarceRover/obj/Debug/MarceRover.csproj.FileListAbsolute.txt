@@ -1,0 +1,5 @@
+E:\vinothkanth\Assesment\MarseRover\MarceRover\bin\Debug\MarceRover.exe
+E:\vinothkanth\Assesment\MarseRover\MarceRover\bin\Debug\MarceRover.pdb
+E:\vinothkanth\Assesment\MarseRover\MarceRover\obj\Debug\MarceRover.csprojResolveAssemblyReference.cache
+E:\vinothkanth\Assesment\MarseRover\MarceRover\obj\Debug\MarceRover.exe
+E:\vinothkanth\Assesment\MarseRover\MarceRover\obj\Debug\MarceRover.pdb
